@@ -18,7 +18,6 @@ I am an enthusiastic web developer  from Nepal
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikbhattarai&label=Profile%20views&color=0e75b6&style=flat" alt="pratikbhattarai" /> </p>
 
 
 

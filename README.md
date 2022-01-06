@@ -40,6 +40,9 @@ I am an enthusiastic web developer  from Nepal
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikbhattarai&show_icons=true&locale=en" alt="pratikbhattarai" /></p>
 
+
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikbhattarai&" alt="pratikbhattarai" /></p>
 
 
